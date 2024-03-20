@@ -1,0 +1,9 @@
+Comando init nos sirve para iniciar un repositorio, SI ESTA VACIO
+
+Rutina de Guardado 
+
+status: nos muestra el estado de rama de guardado
+add .: agregar todos los archivos a la rama de trabajo
+commit -m "mensajer": para crear punto de guardado
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
